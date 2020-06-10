@@ -1,5 +1,5 @@
 # Pong
-Here I have implemented the famous classic pong game implemented using the turtle module in Python.
+Here I have implemented the famous classic pong game implemented using the *turtle* module in Python.
 
 ## How To Play
 Player A: **Up** -> 'w' key; **Down** -> 's' key
